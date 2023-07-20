@@ -1,2 +1,2 @@
-# .github
-This repo is a repo which will be open on the opening of this organization
+# Fulgen Hotel
+Welcome to Fulgen Hotel, a booking web app to for searching or managing hotels
