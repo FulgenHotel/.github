@@ -1,2 +1,2 @@
 # Fulgen Hotel
-Welcome to Fulgen Hotel, a booking web app to for searching or managing hotels
+This repo contains what will be shown in the homepage of this organization
